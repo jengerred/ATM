@@ -37,7 +37,7 @@ const Account = () => {
     event.preventDefault();
     if (newTotal < 0) {
       alert("Insufficient Funds");
-      window.location.reload();
+      return setTotalState(0);
     }
   };
 
