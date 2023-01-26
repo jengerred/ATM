@@ -4,7 +4,12 @@ const ATMDeposit = ({ onChange, isDeposit }) => {
   return (
     <label className="label huge">
       <h3> {choice[Number(!isDeposit)]}</h3>
-      <input type="number" width="200" onChange={onChange}></input>
+      <input
+        type="number"
+        width="200"
+        onChange={onChange}
+        placeholder="$ Enter Amount Here"
+      ></input>
       <input
         className="submit"
         type="submit"
