@@ -1,6 +1,6 @@
 # ATM-app
 ## Description:
-This project was an assignment for the MIT XPRO course. 
+This project was an assignment for the MIT XPRO course. I created a page with user friendly UI to input ATM transactions and added an "insufficient funds" alert when the withdrawal amount is less than the current deposited amount.
 ## How to Run:  
 Just open the page and you can see the components working properly. Check it out for yourself and try to withdraw more than the current deposit amount. 
 ## How to Install:
@@ -10,7 +10,7 @@ I would like to add some more UI elements.
 ## License information: 
 MIT License
 
-Copyright (c) 2022 Jennifer Gerred
+Copyright (c) 2023 Jennifer Gerred
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
