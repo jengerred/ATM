@@ -2,7 +2,10 @@
 ## Description:
 This project was an assignment for the MIT XPRO course. I created a page with user friendly UI to input ATM transactions and added an "insufficient funds" alert when the withdrawal amount is less than the current deposited amount.
 ## How to Run:  
-Follow the instructions on the README.MD page to install react or copy and paste this link into your browser or click: https://jocular-croissant-2e176e.netlify.app/ Open the page and you can see the components working properly. Check it out for yourself and try to withdraw more than the current deposit amount. 
+Follow the instructions on the README.MD page to install react - or -
+copy and paste this link into your browser or click: https://jocular-croissant-2e176e.netlify.app/ 
+
+Open the page and you can see the components working properly. Check it out for yourself and try to withdraw more than the current deposit amount. 
 ## How to Install:
 Must install react -- see README.MD
 ## Roadmap of future improvements:: 
