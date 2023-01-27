@@ -36,16 +36,19 @@ const Account = () => {
     setTotalState(newTotal);
     event.preventDefault();
     if (newTotal < 0) {
-      alert("Insufficient Funds");
+      alert("Unable To Process Transaction: Insufficient Funds");
       return setTotalState(0);
     }
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form align="center" onSubmit={handleSubmit}>
       <h2 id="total">{status}</h2>
+      <br></br>
+      <h3 class="choose">Please choose your transaction:</h3>
       <button onClick={() => setIsDeposit(true)}>Deposit</button>
       <button onClick={() => setIsDeposit(false)}>Withdraw</button> <br></br>
+      <br></br>
       <ATMDeposit onChange={handleChange} isDeposit={isDeposit}></ATMDeposit>
     </form>
   );
