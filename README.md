@@ -1,9 +1,8 @@
-## See my readme.md here: 
-https://github.com/jengerred/ATM/blob/draft/patient-brook/readme.md
+## See my readme.md here: https://github.com/jengerred/ATM/blob/draft/patient-brook/readme.md
 
-See this page in action here: https://jocular-croissant-2e176e.netlify.app/
+## See this page in action here: https://jocular-croissant-2e176e.netlify.app/
 
-See it in codesandbox here: https://codesandbox.io/p/github/jengerred/ATM/draft/patient-brook?file=%2FREADME.md
+## See it in codesandbox here: https://codesandbox.io/p/github/jengerred/ATM/draft/patient-brook?file=%2FREADME.md
 
 # Getting Started with Create React App
 
