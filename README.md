@@ -4,7 +4,7 @@
 ### See it in codesandbox here: 
 [codesandbox](https://codesandbox.io/p/github/jengerred/ATM/main)
 
-## See my readme.md here: https://github.com/jengerred/ATM/blob/draft/patient-brook/readme.md
+## See my readme.md here:[readme](https://github.com/jengerred/ATM/blob/draft/patient-brook/readme.md)
 
 # Getting Started with Create React App
 
